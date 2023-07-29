@@ -65,4 +65,3 @@ We welcome contributions to the URL Shortener project. If you find a bug or have
 5. Open a pull request explaining your changes.
 
 
-We hope you find the URL Shortener project useful! If you have any questions or need further assistance, feel free to contact me at [shubhamthite09@gmail.com](shubhamthite09@gmail.com). Happy shortening!
