@@ -1,5 +1,4 @@
-# URL Shortener Project
-
+# URL Shortener 
 ![URL Shortener Logo](./frontend//src/assets/logo.png)
 
 ## Table of Contents
